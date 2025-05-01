@@ -1,0 +1,14 @@
+{
+  "id": "com.amar.mytextwidget",
+  "name": "My Text Widget",
+  "description": "A simple text widget",
+  "vendor": "Amar",
+  "version": "1.0",
+  "webcomponents": [
+    {
+      "kind": "main",
+      "url": "mytextwidget.js",
+      "integrity": ""
+    }
+  ]
+}
